@@ -1,3 +1,4 @@
+import Downloads from './sections/Downloads'
 import Faq from './sections/Faq'
 import Features from './sections/Features'
 import Header from './sections/header'
@@ -14,6 +15,7 @@ function App() {
 			<Pricing />
 			<Faq />
 			<Testimonials />
+			<Downloads />
 		</main>
 	)
 }
